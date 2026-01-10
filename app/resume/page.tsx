@@ -21,7 +21,7 @@ export default function ResumePage() {
             </p>
           </div>
           <a 
-            href="/Resume_Yash_Narayan_1025.pdf"
+            href="/Resume_Yash_Narayan.pdf"
             download
             className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-[#B77466] to-[#957C62] text-[#FFE1AF] rounded-lg hover:shadow-lg transition-all duration-300 font-medium"
           >
